@@ -1,0 +1,15 @@
+D:\GB\VC\Task_21.10.22\Task\Task47\bin\Debug\net7.0\Task47.exe
+D:\GB\VC\Task_21.10.22\Task\Task47\bin\Debug\net7.0\Task47.deps.json
+D:\GB\VC\Task_21.10.22\Task\Task47\bin\Debug\net7.0\Task47.runtimeconfig.json
+D:\GB\VC\Task_21.10.22\Task\Task47\bin\Debug\net7.0\Task47.dll
+D:\GB\VC\Task_21.10.22\Task\Task47\bin\Debug\net7.0\Task47.pdb
+D:\GB\VC\Task_21.10.22\Task\Task47\obj\Debug\net7.0\Task47.csproj.AssemblyReference.cache
+D:\GB\VC\Task_21.10.22\Task\Task47\obj\Debug\net7.0\Task47.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\VC\Task_21.10.22\Task\Task47\obj\Debug\net7.0\Task47.AssemblyInfoInputs.cache
+D:\GB\VC\Task_21.10.22\Task\Task47\obj\Debug\net7.0\Task47.AssemblyInfo.cs
+D:\GB\VC\Task_21.10.22\Task\Task47\obj\Debug\net7.0\Task47.csproj.CoreCompileInputs.cache
+D:\GB\VC\Task_21.10.22\Task\Task47\obj\Debug\net7.0\Task47.dll
+D:\GB\VC\Task_21.10.22\Task\Task47\obj\Debug\net7.0\refint\Task47.dll
+D:\GB\VC\Task_21.10.22\Task\Task47\obj\Debug\net7.0\Task47.pdb
+D:\GB\VC\Task_21.10.22\Task\Task47\obj\Debug\net7.0\Task47.genruntimeconfig.cache
+D:\GB\VC\Task_21.10.22\Task\Task47\obj\Debug\net7.0\ref\Task47.dll
